@@ -1,0 +1,11 @@
+.details {
+    font-family: 'Lato';
+}
+.detailsHead {
+    font-family: 'Lato';
+    font-weight: bold;
+}
+.butRow {
+    display: flex;
+    flex-direction: row;
+}
